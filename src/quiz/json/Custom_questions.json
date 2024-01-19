@@ -1,0 +1,105 @@
+{
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Custom Category 1",
+        "question": "What is Machine learning?",
+        "correct_answer": "The autonomous acquisition of knowledge through the use of computer programs",
+        "incorrect_answers": [
+          "The autonomous acquisition of knowledge through the use of manual programs",
+          "The selective acquisition of knowledge through the use of manual programs",
+          "The selective acquisition of knowledge through the use of computer programs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Custom Category 2",
+        "question": "How many types of Machine Learning Techniques?",
+        "correct_answer": "3",
+        "incorrect_answers": ["5", "7", "9"]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Custom Category 3",
+        "question": "Machine learning is a subset of_________",
+        "correct_answer": "Artificial Intelligence",
+        "incorrect_answers": ["Data Learning", "Deep Learning", "None of the above"]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Custom Category 4",
+        "question": "Machine Learning is a field of AI consisting of learning algorithms that_________",
+        "correct_answer": "All of the above",
+        "incorrect_answers": [
+          "At executing some task",
+          "Over time with experience",
+          "Improve their performance"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Custom Category 5",
+        "question": "What is true about Machine Learning?",
+        "correct_answer": "All of the above",
+        "incorrect_answers": [
+          "Machine Learning (ML) is that field of computer science",
+          "ML is a type of artificial intelligence that extracts patterns out of raw data by using an algorithm or method.",
+          "The main focus of ML is to allow computer systems to learn from experience without being explicitly programmed or human intervention."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Custom Category 6",
+        "question": "In Model based learning methods, an iterative process takes place on the ML models that are built based on various model parameters, called ?",
+        "correct_answer": "hyperparameters",
+        "incorrect_answers": ["mini-batches", "superparameters", "optimizedparameters"]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Custom Category 7",
+        "question": "Which of the following is a widely used and effective machine learning algorithm based on the idea of bagging?",
+        "correct_answer": "Random Forest",
+        "incorrect_answers": ["Regression", "Classification", "Decision Tree"]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Custom Category 8",
+        "question": "Which of the following statements about regularization is not correct?",
+        "correct_answer": "None of the above",
+        "incorrect_answers": [
+          "Using too large a value of lambda can cause your hypothesis to overfit the data",
+          "Using too large a value of lambda can cause your hypothesis to underfit the data.",
+          "Using a very large value of lambda cannot hurt the performance of your hypothesis."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Custom Category 9",
+        "question": "Data points have negative residual",
+        "correct_answer": "if they are below the regression line",
+        "incorrect_answers": [
+          "if they are above the regression line",
+          "if the regression line actually passes through the point",
+          "None of the above"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Custom Category 10",
+        "question": "In linear regression, we try to ______ the least square errors of the model to identify the line of best fit.",
+        "correct_answer": "Minimize",
+        "incorrect_answers": ["Change", "Maximize", "None of the above"]
+      }
+    ]
+  }
+  

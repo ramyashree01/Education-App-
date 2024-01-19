@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601223993967",
+    "project_id": "lms-app-111fc",
+    "storage_bucket": "lms-app-111fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601223993967:android:41c1936c304c9e23528b9a",
+        "android_client_info": {
+          "package_name": "com.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601223993967-fpjvahkamdvvhmp2ejmv9i0bob6o8ddo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lms",
+            "certificate_hash": "557307e55c1fbe0c21a2a6fdccad4d201aeb0fa8"
+          }
+        },
+        {
+          "client_id": "601223993967-qlqmtio5rinkc67rc19lba8vi9juaou0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2tP4dIbhqv71ifPdmV8SnYwh74fwWkfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601223993967-qlqmtio5rinkc67rc19lba8vi9juaou0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
